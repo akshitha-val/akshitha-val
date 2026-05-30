@@ -215,5 +215,5 @@ KL University, India
 ---
 
 <p align="center">
-<i>Turning Data Into Insights, Insights Into Decisions...........</i>
+<i>Turning Data Into Insights, Insights Into Decisions.</i>
 </p>
